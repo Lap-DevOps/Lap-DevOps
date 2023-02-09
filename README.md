@@ -54,7 +54,7 @@ src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d4
 
 
 [facebook]: https://fb.me/SweetCoderYouTube
-[Linkedin]: [linkedin.com/in/andrii-levin-720074b5](https://www.linkedin.com/in/andrii-levin-720074b5/)
+[Linkedin]: https://www.linkedin.com/in/andrii-levin-720074b5/
 
 
 
