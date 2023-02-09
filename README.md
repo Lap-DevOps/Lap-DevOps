@@ -5,9 +5,9 @@
 ### I'm a Python Softwere Developer!
 
 I like
-- :sport: sport
-- :games: games
-- :travel: travel around the World !
+- 🏐: sport
+- 🎮: games
+- 🌐: travel around the World !
 
 and coding of course :computer:
 
@@ -23,7 +23,7 @@ and coding of course :computer:
 <br />
 <br />
 
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 
 <br />
@@ -37,7 +37,6 @@ and coding of course :computer:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 [<img align="left" alt="django" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][youtube]
 src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/linux/linux.png" />][youtube]
-[<img align="left" alt="MacOS" width="32px" 
 
 <br />
 <br />
