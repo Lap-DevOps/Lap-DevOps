@@ -49,7 +49,7 @@ and coding of course :computer:
 ### You can contact me:
 
 
-[<img align="left" alt="Facebook" width="26px" src="[https://image.flaticon.com/icons/svg/174/174848.svg](https://www.flaticon.com/free-icon/facebook_733547?term=facebook&page=1&position=3&origin=search&related_id=733547)" />][facebook]
+[<img align="left" alt="Facebook" width="26px" src="https://www.flaticon.com/free-icon/facebook_733547?term=facebook&page=1&position=3&origin=search&related_id=733547" />][facebook]
 [<img align="left" alt="Linkedin" width="26px" src="https://www.flaticon.com/free-icon/linkedin_3536505term=linkedin&page=1&position=1&origin=search&related_id=3536505" />][Linkedin]
 
 
