@@ -15,8 +15,8 @@ and coding of course :computer:
 
 ### Skills and Tools
 
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
-[<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][youtube]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][[Linkedin]]
+
 
 
 <br />
@@ -54,7 +54,7 @@ src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d4
 
 
 [facebook]: https://fb.me/SweetCoderYouTube
-[youtube]: https://youtube.com/SweetCoder?sub_confirmation=1
+[Linkedin]: linkedin.com/in/andrii-levin-720074b5
 
 
 
