@@ -13,7 +13,7 @@ and coding of course :computer:
 
 ---
 
-### Skills and Tools
+### Skills and Tools:
 
 [<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Linkedin]
 
@@ -25,6 +25,7 @@ and coding of course :computer:
 <br />
 <br />
 <br />
+---
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Linkedin]
 [<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][Linkedin]
@@ -39,7 +40,7 @@ and coding of course :computer:
 <br />
 
 ---
-### Some more works from bootcamps
+### Some more works from bootcamps:
 
 -[DfE Software Engineering Bootcamp](https://www.hyperiondev.com/portfolio/124448/)
 
