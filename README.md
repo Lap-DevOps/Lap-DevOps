@@ -50,7 +50,7 @@ and coding of course :computer:
 
 
 [<img align="left" alt="Facebook" width="26px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />][facebook]
-[<img align="left" alt="Linkedin" width="26px" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" />][Linkedin]
+[<img align="left" alt="Linkedin" width="26px" src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1684368000&v=beta&t=w513Aud8OwJU49x1yohHN33BwRq1IlDXgFlo6gFyJeg" />][Linkedin]
 
 
 [facebook]: https://www.facebook.com/profile.php?id=100005632441627
