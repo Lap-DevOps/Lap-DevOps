@@ -37,18 +37,13 @@ and coding of course :computer:
 <br />
 <br />
 <br />
----
 
 ---
-
 ### Some more works from bootcamps
 
-#DfE Software Engineering Bootcamp
-https://www.hyperiondev.com/portfolio/124448/
+-[DfE Software Engineering Bootcamp](https://www.hyperiondev.com/portfolio/124448/)
 
-<br />
-#www.freecodecamp.org/learn
-https://www.freecodecamp.org/fccfc965671-d216-481e-a70a-d7b4ed8fc966
+-[www.freecodecamp.org/learn](https://www.freecodecamp.org/fccfc965671-d216-481e-a70a-d7b4ed8fc966)
 
 
 
