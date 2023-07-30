@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##  I'm Andrii L.
+##  I'm Andrii 
 
 ### I'm a Python Softwere Developer!
 
