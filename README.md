@@ -2,12 +2,12 @@
 
 ##  I'm Andrii 
 
-### I'm a Python Softwere Developer!
+### I'm a Python Software Developer!
 
 I like
 - 🏐: sport
 - 🎮: games
-- 🌐: travel around the World !
+- 🌐: travel around the World!
 
 and coding of course :computer:
 
