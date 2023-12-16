@@ -37,7 +37,7 @@ My favorite programming area is web development, and I'm always excited to learn
 Your text for the first column.
 
 **Column 2**
-Your text for the second column.
+Your text for the second column. 
 
 </div>
 ### Database
