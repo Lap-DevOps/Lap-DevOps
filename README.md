@@ -23,7 +23,7 @@ My favorite programming area is web development, and I'm always excited to learn
 - ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
 - ![Flask](https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask)&nbsp; ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
 ![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=0c6b47);
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=0c6b47)
 
 ### Frontend
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)&nbsp;
@@ -31,7 +31,15 @@ My favorite programming area is web development, and I'm always excited to learn
   ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=redux)
+<div style="display: flex; justify-content: space-between;">
 
+**Column 1**
+Your text for the first column.
+
+**Column 2**
+Your text for the second column.
+
+</div>
 ### Database
 - ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=sql)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
