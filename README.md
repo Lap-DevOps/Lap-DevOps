@@ -5,14 +5,14 @@
 ### Hey there! I'm a Python Software Developer! 👨‍💻
 
 🔧 I have a passion for:
-- Software Development ![Code](https://img.shields.io/badge/Code-222222?style=flat)
-- Exploring new technologies ![Tech](https://img.shields.io/badge/Tech-222222?style=flat)
-- Coding away ![Coding](https://img.shields.io/badge/Coding_Away-222222?style=flat)
+- Software Development ![Code](https://img.shields.io/badge/Code-005571?style=for-the-badge&logo=python)
+- Exploring new technologies ![Tech](https://img.shields.io/badge/Tech-005571?style=for-the-badge&logo=python)
+- Coding away ![Coding](https://img.shields.io/badge/Coding_Away-005571?style=for-the-badge&logo=python)
 
 🌟 When I'm not immersed in the world of technology, you can find me enjoying:
-- Sports ![Sports](https://img.shields.io/badge/Sports-222222?style=flat)
-- Gaming ![Games](https://img.shields.io/badge/Games-222222?style=flat)
-- Traveling around the World ![Travel](https://img.shields.io/badge/Travel-222222?style=flat)
+- Sports ![Sports](https://img.shields.io/badge/Sports-005571?style=for-the-badge&logo=python)
+- Gaming ![Games](https://img.shields.io/badge/Games-005571?style=for-the-badge&logo=python)
+- Traveling around the World ![Travel](https://img.shields.io/badge/Travel-005571?style=for-the-badge&logo=python)
 
 🚀 My favorite programming area is web development, and I'm always excited to learn new technologies and take on challenging tasks.
 
