@@ -4,7 +4,7 @@
 
 ### Hey there! I'm a Python Software Developer! 👨‍💻
 
-🔧 I have a passion for:
+⚙️ I have a passion for:
 - Software Development ![Code](https://img.shields.io/badge/Code-005571?style=for-the-badge&logo=python)
 - Exploring new technologies ![Tech](https://img.shields.io/badge/Tech-005571?style=for-the-badge&logo=python)
 - Coding away ![Coding](https://img.shields.io/badge/Coding_Away-005571?style=for-the-badge&logo=python)
@@ -15,6 +15,7 @@
 - Traveling around the World ![Travel](https://img.shields.io/badge/Travel-005571?style=for-the-badge&logo=python)
 
 🚀 My favorite programming area is web development, and I'm always excited to learn new technologies and take on challenging tasks.
+
 
 
 
