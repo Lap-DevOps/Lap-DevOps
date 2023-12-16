@@ -16,12 +16,18 @@ When I'm not immersed in the world of technology, you can find me enjoying:
 
 My favorite programming area is web development, and I'm always excited to learn new technologies and take on challenging tasks.
 
+### Backend
+- ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+- ![Flask](https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask)&nbsp; ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
+![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=0c6b47)
 
-| Backend | Frontend |
-|---------|----------|
-| ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python) | ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript) |
-| ![Flask](https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask) ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django&logoColor=0b593c) ![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-222222?style=flat&logo=django&logoColor=0b593c) ![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=0c6b47) | ![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6) ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=redux) |
-
+### Frontend
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+- ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=redux)
 
 
 ### Database
