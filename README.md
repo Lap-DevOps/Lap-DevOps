@@ -77,8 +77,8 @@ My favourite programming area is web development!
 ### You can contact me:
 
 
-[<img align="left" alt="Facebook" width="26px" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100005632441627)
-[<img align="left" alt="Linkedin" width="26px" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrii-levin-720074b5/)
+[<img align="left" alt="Facebook" width="126px" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100005632441627)
+[<img align="left" alt="Linkedin" width="126px" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrii-levin-720074b5/)
 
 
 
