@@ -20,7 +20,7 @@ My favourite programming area is web development!
 
 ### Backend
 - ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
-- ![Flask](https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask)&nbsp;/
+- ![Flask](https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask)&nbsp;\
 - ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
 - ![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=0c6b47)
