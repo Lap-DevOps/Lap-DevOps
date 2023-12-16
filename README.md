@@ -37,7 +37,7 @@ My favourite programming area is web development!
 ### Database
 - ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-222222?style=flat&logo=sqlalchemy)
 - ![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)\
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
 
 
 ### Testing
