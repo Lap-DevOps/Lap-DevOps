@@ -2,19 +2,18 @@
 
 ##  I'm Andrii 
 
-### I'm a Python Software Developer!
+### Hey there! I'm a Python Software Developer! 👨‍💻
 
-I like
-- 🏐: sport
-- 🎮: games
-- 🌐: travel around the World!
+I have a passion for:
+- ⚙️ [Software Development](https://img.shields.io/badge/-Software%20Development-222222?style=flat&logo=python)
+- 🚀 [Exploring new technologies](https://img.shields.io/badge/-Exploring%20new%20technologies-222222?style=flat&logo=technology)
+- 💻 [Coding away!](https://img.shields.io/badge/-Coding%20away-222222?style=flat&logo=code)
 
-and coding of course :computer:
+When I'm not immersed in the world of technology, you can find me enjoying:
+- 🏐 [Sports](https://img.shields.io/badge/-Sports-222222?style=flat&logo=sports)
+- 🎮 [Gaming](https://img.shields.io/badge/-Gaming-222222?style=flat&logo=game-boy)
+- 🌐 [Traveling around the World!](https://img.shields.io/badge/-Traveling%20around%20the%20World-222222?style=flat&logo=world)
 
-My favourite programming area is web development!
-
-
----
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -63,7 +62,7 @@ My favourite programming area is web development!
 
 
 <br />
-
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Lap-DevOps">
@@ -74,7 +73,7 @@ My favourite programming area is web development!
 
 
 
-### You can contact me:
+### 🤝🏻 &nbsp;Connect with Me
 
 
 [<img align="left" alt="Facebook" width="126px" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100005632441627)
