@@ -28,31 +28,33 @@ My favourite programming area is web development!
 ### Frontend
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=HTML5)&nbsp;
- ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=redux)
 
 
 ### Database
-- ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-222222?style=flat&logo=sqlalchemy)
-- ![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis)
+- ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=sql)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
+- ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-222222?style=flat&logo=sqlalchemy)
+  ![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis)
 
 
 ### Testing
-- ![pytest](https://img.shields.io/badge/-pytest-222222?style=flat&logo=pytest)
-- ![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat&logo=selenium)
+- ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-222222?style=flat&logo=unittest&logoColor=32CD32)
+  ![pytest](https://img.shields.io/badge/-pytest-222222?style=flat&logo=pytest)
+  ![Selenium](https://img.shields.io/badge/-Selenium-222222?style=flat&logo=selenium)
 
 ### Tools
 - ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
-- ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-222222?style=flat&logo=azure-devops)
+  ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
+  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-222222?style=flat&logo=azure-devops)
 
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-222222?style=flat&logo=pycharm)
-- ![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
-- ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-222222?style=flat&logo=microsoft-azure&logoColor=0089D6)
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-222222?style=flat&logo=microsoft-azure&logoColor=0089D6)
 - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-222222?style=flat&logo=rabbitmq)
 - ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
 - ![Nginx](https://img.shields.io/badge/-Nginx-222222?style=flat&logo=nginx&logoColor=0c6b47)
