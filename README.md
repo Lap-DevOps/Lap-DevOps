@@ -5,16 +5,17 @@
 ### Hey there! I'm a Python Software Developer! 👨‍💻
 
 🔧 I have a passion for:
-- ![](https://img.shields.io/badge/Software_Development-222222?style=flat)
-- ![Exploring new technologies](https://img.shields.io/badge/Exploring_Technologies-222222?style=flat)
-- ![Coding away](https://img.shields.io/badge/Coding_Away-222222?style=flat)
+- Software Development ![Code](https://img.shields.io/badge/Code-222222?style=flat)
+- Exploring new technologies ![Tech](https://img.shields.io/badge/Tech-222222?style=flat)
+- Coding away ![Coding](https://img.shields.io/badge/Coding_Away-222222?style=flat)
 
 🌟 When I'm not immersed in the world of technology, you can find me enjoying:
-- ![Sports](https://img.shields.io/badge/Sports-222222?style=flat)
-- ![Gaming](https://img.shields.io/badge/Gaming-222222?style=flat)
-- ![Traveling around the World](https://img.shields.io/badge/Traveling-222222?style=flat)
+- Sports ![Sports](https://img.shields.io/badge/Sports-222222?style=flat)
+- Gaming ![Games](https://img.shields.io/badge/Games-222222?style=flat)
+- Traveling around the World ![Travel](https://img.shields.io/badge/Travel-222222?style=flat)
 
 🚀 My favorite programming area is web development, and I'm always excited to learn new technologies and take on challenging tasks.
+
 
 
 
