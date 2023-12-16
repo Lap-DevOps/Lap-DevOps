@@ -4,21 +4,17 @@
 
 ### Hey there! I'm a Python Software Developer! 👨‍💻
 
-⚙️ I have a passion for:
-- Software Development ![Code](https://img.shields.io/badge/Code-005571?style=for-the-badge&logo=python)
-- Exploring new technologies ![Tech](https://img.shields.io/badge/Tech-005571?style=for-the-badge&logo=python)
-- Coding away ![Coding](https://img.shields.io/badge/Coding_Away-005571?style=for-the-badge&logo=python)
+I have a passion for:
+- ⚙️ Software Development
+- 🚀 Exploring new technologies
+- 💻 Coding away!
 
-🌟 When I'm not immersed in the world of technology, you can find me enjoying:
-- Sports ![Sports](https://img.shields.io/badge/Sports-005571?style=for-the-badge&logo=python)
-- Gaming ![Games](https://img.shields.io/badge/Games-005571?style=for-the-badge&logo=python)
-- Traveling around the World ![Travel](https://img.shields.io/badge/Travel-005571?style=for-the-badge&logo=python)
+When I'm not immersed in the world of technology, you can find me enjoying:
+- 🏐 Sports
+- 🎮 Gaming
+- 🌐 Traveling around the World!
 
-🚀 My favorite programming area is web development, and I'm always excited to learn new technologies and take on challenging tasks.
-
-
-
-
+My favorite programming area is web development, and I'm always excited to learn new technologies and take on challenging tasks.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,7 +24,6 @@
 ![DjangoRestFramework](https://img.shields.io/badge/-DjangoRestFramework-222222?style=flat&logo=django&logoColor=0b593c)&nbsp;
   ![FastAPI](https://img.shields.io/badge/-FastAPI-222222?style=flat&logo=fastapi&logoColor=0c6b47);
 
-
 ### Frontend
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=HTML5)&nbsp;
@@ -36,13 +31,11 @@
 - ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=redux)
 
-
 ### Database
 - ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=sql)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
 - ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-222222?style=flat&logo=sqlalchemy)
   ![Redis](https://img.shields.io/badge/-Redis-222222?style=flat&logo=redis)
-
 
 ### Testing
 - ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-222222?style=flat&logo=unittest&logoColor=32CD32)
@@ -53,7 +46,6 @@
 - ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
   ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-222222?style=flat&logo=azure-devops)
-
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-222222?style=flat&logo=pycharm)
   ![Postman](https://img.shields.io/badge/-Postman-222222?style=flat&logo=postman)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -62,9 +54,6 @@
 - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-222222?style=flat&logo=rabbitmq)
 - ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)
 - ![Nginx](https://img.shields.io/badge/-Nginx-222222?style=flat&logo=nginx&logoColor=0c6b47)
-
-
-
 
 <br />
 ### ⚙️ &nbsp;GitHub Analytics
@@ -76,10 +65,7 @@
 </a>
 </p>
 
-
-
 ### 🤝🏻 &nbsp;Connect with Me
-
 
 [<img align="left" alt="Facebook" width="126px" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100005632441627)
 [<img align="left" alt="Linkedin" width="126px" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrii-levin-720074b5/)
